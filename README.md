@@ -1,4 +1,3 @@
-<div style="margin: 50px;box-shadow: 2px 2px 10px #666;border-radius: 15px;padding: 30px;">
       <h1 style="text-align: center">
         Hola👋, bienvenido a mi perfil de GitHub soy Gaston Romo
       </h1>
@@ -31,5 +30,4 @@
             <img src="https://pbs.twimg.com/profile_images/730398192169328640/aN0B-LIm_400x400.jpg" height="50px">
         </a>
        </div>
-</div>
 
