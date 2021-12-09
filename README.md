@@ -3,7 +3,7 @@
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=gastonromo&label=Profile%20views&color=0e75b6&style=flat" alt = "gastonromo" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo ** Spring Boot y JavaScript **
+- 🌱 Actualmente estoy aprendiendo **Spring Boot y JavaScript**
 
 - 📫 Cómo comunicarse conmigo **gastonromo2000@gmail.com**
 
