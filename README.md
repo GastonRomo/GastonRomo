@@ -22,7 +22,7 @@
             <img src="https://www.profesionalreview.com/wp-content/uploads/2017/05/3-extensiones-para-ser-m%C3%A1s-productivo-con-Gmail-00-1280x720.jpg"                                  height="50px">
         </a>
         <a href="https://www.instagram.com/gastonromo_30/?hl=es" target="_blank">
-            <img src="https://pbs.twimg.com/profile_images/730398192169328640/aN0B-LIm_400x400.jpg" height="50px">
+            <img src="https://pbs.twimg.com/profile_images/730398192169328640/aN0B-LIm_400x400.jpg" height="50px" style="border-radius:15px">
         </a>
        </div>
 
