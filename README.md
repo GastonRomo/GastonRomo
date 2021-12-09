@@ -1,20 +1,40 @@
-<h1 align = "center"> Hola 👋, soy Gastón Romo </h1>
-<h3 align = "center"> Soy desarrollador Java, estudiante de Ingeniería de Sistemas y apasionado por las nuevas tecnologías, actualmente vivo en Argentina </ h3>
+<div style="margin: 50px;
+                box-shadow: 2px 2px 10px #666;
+                border-radius: 15px;
+                padding: 30px;">
+      <h1 style="text-align: center">
+        Hola👋, bienvenido a mi perfil de GitHub soy Gaston Romo
+      </h1>
+      <hr />
+      <h2 style="text-align: center">
+        Soy desarrolador de software Junior, estudiante de Ingenieria en
+        Sistemas y un apasionado por las nuevas tecnologias
+      </h2>
+      <hr>
+      <h2 style="text-align: center;text-decoration: underline;">Tecnologias y Lenguajes:</h2>
+      <div style="text-align: center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" height="50px" style="display: inline-block;margin-right: 30px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" height="50px" style="display: inline-block;margin-right: 40px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40px" style="display: inline-block;margin-right: 30px;">
+        <img src="https://okhosting.com/resources/uploads/2019/01/java.jpg" height="60px" style="display: inline-block;margin-right: 10px;">
+        <img src="https://ricardogeek.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-12-at-10.54.19-AM.png" height="50px" style="display: inline-block;margin-right: 30px;">
+        <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" height="50px" style="display: inline-block;margin-right: 30px;">
+        <img src="https://blog.facialix.com/wp-content/uploads/2021/04/git-github-cero-facialix.jpg" height="50px" style="display: inline-block;margin-right: 10px;">
+      </div>
+      <hr>
+      <h2 style="text-align: center;text-decoration: underline;">Contactame:</h2>
+      <div style="text-align: center;">
+        <a href="https://www.linkedin.com/in/gaston-romo-4926b221b/" target="_blank">
+            <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" height="50px">
+        </a>
+        <a href="mailto:gastonromo2000@gmail.com" target="_blank">
+            <img src="https://www.profesionalreview.com/wp-content/uploads/2017/05/3-extensiones-para-ser-m%C3%A1s-productivo-con-Gmail-00-1280x720.jpg" height="50px">
+        </a>
+        <a href="https://www.instagram.com/gastonromo_30/?hl=es" target="_blank">
+            <img src="https://pbs.twimg.com/profile_images/730398192169328640/aN0B-LIm_400x400.jpg" height="50px">
+        </a>
 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=gastonromo&label=Profile%20views&color=0e75b6&style=flat" alt = "gastonromo" /> </p>
+      </div>
 
-- 🌱 Actualmente estoy aprendiendo **Spring Boot y JavaScript**
-
-- 📫 Cómo comunicarse conmigo **gastonromo2000@gmail.com**
-
-<h3 align = "left"> Conéctese conmigo: </h3>
-<p align = " izquierda ">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gaston-romo-4926b221b/" target="blank"> <img align = "center" src = " https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg "alt =" https://www.linkedin.com / in / gaston-romo-4926b221b / "height =" 30 "width =" 40 "/> </a>
-<a href =" https://stackoverflow.com/users/https://stackoverflow.com/users / edit / 17636402 "target =" blank "> <img align =" center "src =" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /stack-overflow.svg "alt =" https://stackoverflow.com/users/edit/17636402 "altura =" 30 "ancho =" 40 "/> </a>
-</p>
-
-<h3 align = "left"> Idiomas y herramientas: </h3>
-<p align = "left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg "alt =" bootstrap "width =" 40 "height =" 40 "/> </a> <a href =" https://www.w3schools.com / css / "target =" _ blank "rel =" noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg "alt = "css3" width = "40" height = "40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "git" width = "40" height = "40" /> </a> < a href = "https://www.w3.org/html/" target = "_ blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons /html5/html5-original-wordmark.svg "alt =" html5 "width =" 40 "height =" 40 "/> </a> <a href =" https://www.java.com "target =" _blank "rel =" noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg "alt =" java "width =" 40 "de altura = "40" /> </a> <a href = "https://www.mysql.com/" target = "_ blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql /mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> </a> <a href =" https://spring.io/ "target =" _ blank "rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt = "spring" width = "40" height = "40" /> </ a > </p>com / devicons / devicon / master / icons / mysql / mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> </a> <a href =" https: // spring.io/ "target =" _ blank "rel =" noreferrer "> <img src =" https://www.vectorlogo.zone/logos/springio/springio-icon.svg "alt =" spring "width =" 40 "altura =" 40 "/> </a> </p>com / devicons / devicon / master / icons / mysql / mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> </a> <a href =" https: // spring.io/ "target =" _ blank "rel =" noreferrer "> <img src =" https://www.vectorlogo.zone/logos/springio/springio-icon.svg "alt =" spring "width =" 40 "altura =" 40 "/> </a> </p>/> </a> </p>/> </a> </p>
-
-<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=gastonromo&show_icons=true&locale=en&layout=compact" alt = "gastonromo" /> </p>
+    </div>
 
