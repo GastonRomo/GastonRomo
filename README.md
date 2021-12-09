@@ -1,13 +1,8 @@
-      <h1 style="text-align: center">
-        Hola👋, bienvenido a mi perfil de GitHub soy Gaston Romo
-      </h1>
-      <hr />
-      <h2 style="text-align: center">
-        Soy desarrolador de software Junior, estudiante de Ingenieria en
-        Sistemas y un apasionado por las nuevas tecnologias
-      </h2>
-      <hr>
-      <h2 style="text-align: center;text-decoration: underline;">Tecnologias y Lenguajes:</h2>
+<h1 style="text-align: center"> Hola👋, bienvenido a mi perfil de GitHub soy Gaston Romo </h1>
+<hr>
+<h2 style="text-align: center">Soy desarrolador de software Junior, estudiante de Ingenieria en Sistemas y un apasionado por las nuevas tecnologias </h2>
+<hr>
+<h2 style="text-align: center;text-decoration: underline;">Tecnologias y Lenguajes:</h2>
       <div style="text-align: center;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" height="50px"                                    style="display: inline-block;margin-right: 30px;">
         <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" height="50px" style="display: inline-block;margin-right: 40px;">
